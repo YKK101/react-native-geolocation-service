@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kanya/3rd-party/react-native-geolocation-service-with-status/android/src/main/assets"/><source path="/Users/kanya/3rd-party/react-native-geolocation-service-with-status/android/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/kanya/3rd-party/react-native-geolocation-service-with-status/android/src/release/assets"/></dataSet></merger>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kanya/3rd-party/react-native-geolocation-service-with-status/example/node_modules/react-native-geolocation-service/android/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/kanya/3rd-party/react-native-geolocation-service-with-status/example/node_modules/react-native-geolocation-service/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/kanya/3rd-party/react-native-geolocation-service-with-status/android/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/kanya/3rd-party/react-native-geolocation-service-with-status/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
